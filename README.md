@@ -34,7 +34,7 @@ Ensure the `orbis-image2gnf.exe` tool is in your system's PATH:
 2. **Run the Script**: Use the following command to run the script:
 
     ```bash
-    python script_name.py
+    python TextureInjector.py
     ```
 
 3. **Provide Inputs**:

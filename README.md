@@ -7,6 +7,8 @@ This script is designed to extract and inject textures from UCAS or PAK files us
 ### Important Note
 
 This script will only work with textures that have **BC7** or **UserInterface** compression formats in the Unreal Engine texture compression settings. Additionally, you must ensure that the texture group is set to **UI** and that **mipmaps** is set to **NoMipmaps**. The script does not support textures that rely on UBulk files.
+Your Mod / pak file should not use compression so if it is compressed with Oodle or any other compression it will not work 
+That being said you can turn off compression in the unreal projects settings
 
 ## Requirements
 
